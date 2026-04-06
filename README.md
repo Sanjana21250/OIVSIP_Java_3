@@ -27,7 +27,8 @@ The objective of this project is to simulate a basic ATM (Automated Teller Machi
 ## How to Run
 1. Compile the program:
    javac ATMInterface.java
-2. Run the program:
+   javac ATMFunctionality.java
+3. Run the program:
    java ATMInterface
    
 ## Outcome
